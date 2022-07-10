@@ -972,9 +972,18 @@
 - local: sentiment-analysis-twitter
   title: "Getting Started with Sentiment Analysis on Twitter"
   author: FedericoPascual
-  thumbnail: /blog/assets/85_sentiment_analysis_twitter/thumbnail.png
+  thumbnail: /blog/assets/86_sentiment_analysis_twitter/thumbnail.png
   date: July 7, 2022
   tags:
     - sentiment-analysis
+    - nlp
+    - guide
+
+- local: playlist-generator-st
+  title: "Building a Playlist Generator with Sentence Transformers"
+  author: NimaBoscarino
+  thumbnail: /blog/assets/87_playlist_generator_st/thumbnail.png
+  date: July 13, 2022
+  tags:
     - nlp
     - guide
